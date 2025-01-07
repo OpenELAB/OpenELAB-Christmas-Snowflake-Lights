@@ -29,6 +29,14 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 ### Physical Build
 
 ## BOM (Bill of Materials)
+| Component | Specification | Quantity |
+|-------------------|--------------------|----------|
+| USB-Type-C Module | - | 1 |
+| AMS117-3.3 | Voltage Regulator | 1 |
+| Capacitor | 10uF | 2 |
+| Capacitor | 0.1uF | 2 |
+| LED | RGB or Single Colour | 6 |
+| Resistor | 10Ω | 6 |
 
 ## Required Components
 
