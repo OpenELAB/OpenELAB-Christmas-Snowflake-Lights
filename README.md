@@ -29,7 +29,7 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 ![physical-build1](images/physical-build1.jpg)
 ![physical-build2](images/physical-build2.jpg)
 ### Physical Build
-![]()
+![physical-build3]()
 
 ## BOM (Bill of Materials)
 | Component | Specification | Quantity |
