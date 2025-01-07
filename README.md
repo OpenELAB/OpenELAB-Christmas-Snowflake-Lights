@@ -25,8 +25,11 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 
 ## PCB Design, Circuit Schematic & Physical Build
 ### Circuit Schematic
+![原理图]()
 ### PCB Layout
+
 ### Physical Build
+
 
 ## BOM (Bill of Materials)
 | Component | Specification | Quantity |
