@@ -12,7 +12,7 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 - 🎇 How to Use
   
 # Snow Light Project ❄️✨
-## Overview:
+## Overview
 ✨ The Snow Light project is an easy-to-build lighting system that uses RGB LEDs to simulate falling snowflakes. With just a few basic components, you can create a dazzling light display that is perfect for Christmas trees, festive decorations, or simply adding a warm glow to any space. It's a project designed for everyone, no matter your skill level! 🎄🌟
 
 ## Features
