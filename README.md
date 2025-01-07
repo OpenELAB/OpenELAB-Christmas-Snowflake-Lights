@@ -41,7 +41,8 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 | LED | RGB or Single Colour | 6 |
 | Resistor | 10Ω | 6 |
 
-[BOM](BOM/Snowlight.zip)
+Gerber file:
+[Gerber](Gerber/SNOW_LED.zip)
 
 ## Circuit Design Explanation
 ### ⚡ Power Supply
