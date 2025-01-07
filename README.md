@@ -7,7 +7,6 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 - ✨ Features
 - 📐 PCB Design, Circuit Schematic & Physical Build
 - 🗂️ BOM (Bill of Materials)
-- 🔧 Required Components
 - 🛠️ Circuit Design Explanation
 - ⚙️ Hardware Assembly
 - 🎇 How to Use
@@ -25,11 +24,12 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 
 ## PCB Design, Circuit Schematic & Physical Build
 ### Circuit Schematic
-![原理图]()
+![Circuit Schematic](images/circuit-schematic.jpg)
 ### PCB Layout
-
+![physical-build1](images/physical-build1.jpg)
+![physical-build2](images/physical-build2.jpg)
 ### Physical Build
-
+![]()
 
 ## BOM (Bill of Materials)
 | Component | Specification | Quantity |
@@ -41,7 +41,7 @@ This isn't just a fun DIY project; it's an exciting experience where you'll buil
 | LED | RGB or Single Colour | 6 |
 | Resistor | 10Ω | 6 |
 
-## Required Components
+[BOM](BOM/Snowlight.zip)
 
 ## Circuit Design Explanation
 ### ⚡ Power Supply
@@ -74,7 +74,3 @@ Once connected, you’ll have a snowflake lighting system ready to shine! 🌟�
 - Enjoy the magic: Watch the LEDs light up in a snowflake pattern, filling your space with a cosy glow.
 - Get creative: Adjust the number, colour, or arrangement of LEDs to customise your Snow Light.
 - Festive Tip: Attach your Snow Light to a Christmas tree or hang it on a wall for an enchanting holiday effect! 🎄✨
-
-
-
-
